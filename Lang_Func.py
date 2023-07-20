@@ -7,4 +7,4 @@ def greet(lang):
         print("Hello")
 
 lang = input('Enter lang:')
-greet(lang)   # call (Argument)
+greet(lang)   # call ARGUMENT(PARAMETER)
